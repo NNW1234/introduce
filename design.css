@@ -1,0 +1,17 @@
+/* .block1 {width: 280px; height: 280px; background-color:red;}
+.block2 {width: 280px; height: 280px; background-color:rgb(192, 240, 81);} */
+.block1, .block2 {width: 280px; height: 280px; background-color:rgb(192, 240, 81);}
+#block3 {width: 280px; height: 280px; background-color:rgb(192, 240, 81) margin: 0 auto padding: 100px 50px;}
+#block4 {width: 280px;
+     height: 280px;
+     background-color:rgb(192, 240, 81); border:crimson solid 30px}
+
+.parent {width: 380px; 
+    background: url() no-repeat
+    background-size: cover
+    display: flex;
+    flex-direction: row;
+}
+
+
+/* !important  */
